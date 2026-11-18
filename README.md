@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:7B2FF7&height=120&section=footer" width="100%" />
+</p>
+
 # Welcome to My GitHub Profile! 🎉
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sengul5/sengul5/output/github-snake-dark.svg" />
@@ -12,14 +16,6 @@
   <img src="https://skillicons.dev/icons?i=swift,ts,js,astro,react,nodejs,python,docker,html,css,git" />
 </p>
 
-<h3 align="center">🤝 Connect With Me</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sengul-cakir-301046290">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sengul-cakir-301046290)
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=sengul5&label=Ziyaretci&color=yellow&style=flat)
