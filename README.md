@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:0E75B6&height=200&section=header&text=Şengül&fontSize=60&fontColor=ffffff&fontAlignY=35" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Şengül</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=450&lines=iOS+Developer;Frontend+Developer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=450&lines=iOS+Developer;Frontend+Developer;Always+Learning" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sengul5&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 # Welcome to My GitHub Profile! 🎉
