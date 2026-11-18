@@ -12,6 +12,13 @@
   <img src="https://skillicons.dev/icons?i=swift,ts,js,astro,react,nodejs,python,docker,html,css,git" />
 </p>
 
+<h3 align="center">🤝 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sengul-cakir-301046290">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sengul-cakir-301046290)
 
 
