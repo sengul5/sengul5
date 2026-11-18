@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Şengül</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:7B2FF7&height=120&section=footer" width="100%" />
 </p>
