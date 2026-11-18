@@ -8,7 +8,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=sengul5&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sengul5&layout=compact&theme=tokyonight)
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=swift,ts,js,astro,react,nodejs,python,html,css,git" />
 </p>
 
