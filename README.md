@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sengul5&layout=compact&theme=tokyonight)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,ts,js,astro,react,nodejs,python,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,astro,react,nodejs,python,docker,html,css,git" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sengul-cakir-301046290)
