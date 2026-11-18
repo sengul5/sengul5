@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Şengül</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:7B2FF7&height=120&section=footer" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=450&lines=iOS+Developer;Frontend+Developer;Always+Learning+🚀" />
 </p>
 
 # Welcome to My GitHub Profile! 🎉
@@ -10,7 +11,7 @@
   <img alt="github snake" src="https://raw.githubusercontent.com/sengul5/sengul5/output/github-snake.svg" />
 </picture>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sengul5&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=sengul5&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sengul5&layout=compact&theme=tokyonight)
 
 <p>
