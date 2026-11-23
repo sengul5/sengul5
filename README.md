@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Şengül</h1>
 
-# Welcome to My GitHub Profile! 🎉
+# Welcome to My GitHub Profile! 🎉🎉
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sengul5/sengul5/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sengul5/sengul5/output/github-snake.svg" />
